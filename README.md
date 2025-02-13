@@ -47,13 +47,10 @@ Me chamo Diego Santos, tenho 24 anos sou natural do Rio de Janeiro. Sou graduado
     src="https://github-readme-stats.vercel.app/api?username=santsdiego&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
     
-<br/>
-<br/>
-
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=santsdiego&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 
