@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Sants Diego
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Diego Santos, tenho 24 anos sou natural do Rio de Janeiro. Sou graduado em Gestão Financeira pela Anhanguera. Atualmente, estou transicionando de carreira para o mundo da tecnologia. Sou apaixonado em criar coisas do zero e poder programar me trouxe a capacidade de dar vida aos meus pensamentos de uma nova forma a qual eu posso ajudar outras pessoas com minhas criações.
 
